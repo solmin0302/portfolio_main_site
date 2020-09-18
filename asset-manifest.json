@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfoilo-main-site/static/css/main.e1b67cb6.chunk.css",
+    "main.js": "/portfoilo-main-site/static/js/main.915ff441.chunk.js",
+    "main.js.map": "/portfoilo-main-site/static/js/main.915ff441.chunk.js.map",
+    "runtime-main.js": "/portfoilo-main-site/static/js/runtime-main.e9ef9481.js",
+    "runtime-main.js.map": "/portfoilo-main-site/static/js/runtime-main.e9ef9481.js.map",
+    "static/js/2.0b243e2c.chunk.js": "/portfoilo-main-site/static/js/2.0b243e2c.chunk.js",
+    "static/js/2.0b243e2c.chunk.js.map": "/portfoilo-main-site/static/js/2.0b243e2c.chunk.js.map",
+    "index.html": "/portfoilo-main-site/index.html",
+    "precache-manifest.0938193ac2a4a346938420c6a9f4c07c.js": "/portfoilo-main-site/precache-manifest.0938193ac2a4a346938420c6a9f4c07c.js",
+    "service-worker.js": "/portfoilo-main-site/service-worker.js",
+    "static/css/main.e1b67cb6.chunk.css.map": "/portfoilo-main-site/static/css/main.e1b67cb6.chunk.css.map",
+    "static/js/2.0b243e2c.chunk.js.LICENSE.txt": "/portfoilo-main-site/static/js/2.0b243e2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9ef9481.js",
+    "static/js/2.0b243e2c.chunk.js",
+    "static/css/main.e1b67cb6.chunk.css",
+    "static/js/main.915ff441.chunk.js"
+  ]
+}
