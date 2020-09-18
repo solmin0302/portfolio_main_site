@@ -42,8 +42,8 @@ export default function RightContent() {
         </h1>
       </div>
 
-      <Route path="/" exact component={RightContentIndex} />
-      <Route path="/work" component={RightContentWork} />
+      <Route path="/portfolio_main_site/" exact component={RightContentIndex} />
+      <Route path="/portfolio_main_site/work" component={RightContentWork} />
     </RightContentBlock>
   );
 }
