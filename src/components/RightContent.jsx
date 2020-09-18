@@ -37,8 +37,8 @@ export default function RightContent() {
     <RightContentBlock>
       <div className="menu-bar-container">
         <h1>
-          <Link to="/">Hello</Link>
-          <Link to="/work">Work</Link>
+          <Link to="/portfolio_main_site/">Hello</Link>
+          <Link to="/portfolio_main_site/work">Work</Link>
         </h1>
       </div>
 

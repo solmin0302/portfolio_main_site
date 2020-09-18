@@ -61,7 +61,6 @@ function App() {
   return (
     <>
       <GlobalStyle clicked={clicked} />
-      {/* {clicked ? } */}
       <MainLayout>
         <LeftLayout>
           <LeftContent />
