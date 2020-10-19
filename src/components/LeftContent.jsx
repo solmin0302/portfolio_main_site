@@ -55,7 +55,7 @@ export default function LeftContent() {
     <LeftContentBlock>
       <div className="icon-container">
         <h1>
-          <a href="/">
+          <a href="/portfolio_main_site">
             SEO SOLMIN<sup>™</sup>
           </a>
         </h1>
